@@ -1,0 +1,4 @@
+app/common/services/*.js
+app/*.js
+app/products/*.js
+node_modules
